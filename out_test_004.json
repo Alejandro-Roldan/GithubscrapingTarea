@@ -1,0 +1,100 @@
+[
+    {
+        "url": "https://github.com/lltcggie/waifu2x-caffe",
+        "extra": {
+            "owner": "lltcggie",
+            "language_stats": {
+                "C++": 92.2,
+                "Makefile": 4.1,
+                "Python": 2.0,
+                "C": 1.4,
+                "Batchfile": 0.3
+            }
+        }
+    },
+    {
+        "url": "https://github.com/Grabacr07/KanColleViewer",
+        "extra": {
+            "owner": "Grabacr07",
+            "language_stats": {
+                "C#": 98.3,
+                "PowerShell": 1.7
+            }
+        }
+    },
+    {
+        "url": "https://github.com/karino2/c-lesson",
+        "extra": {
+            "owner": "karino2",
+            "language_stats": {
+                "C": 86.8,
+                "Assembly": 11.0,
+                "Other": 2.2
+            }
+        }
+    },
+    {
+        "url": "https://github.com/DdrAAgon2/intro-curriculum-3001",
+        "extra": {
+            "owner": "DdrAAgon2",
+            "language_stats": {
+                "JavaScript": 100.0
+            }
+        }
+    },
+    {
+        "url": "https://github.com/progedu/intro-curriculum-3004",
+        "extra": {
+            "owner": "progedu",
+            "language_stats": {
+                "JavaScript": 100.0
+            }
+        }
+    },
+    {
+        "url": "https://github.com/P-P-X/awesome-collector",
+        "extra": {
+            "owner": "P-P-X",
+            "language_stats": {}
+        }
+    },
+    {
+        "url": "https://github.com/progedu/intro-curriculum-3003",
+        "extra": {
+            "owner": "progedu",
+            "language_stats": {
+                "JavaScript": 100.0
+            }
+        }
+    },
+    {
+        "url": "https://github.com/progedu/intro-curriculum-3006",
+        "extra": {
+            "owner": "progedu",
+            "language_stats": {
+                "CoffeeScript": 89.3,
+                "Shell": 4.3,
+                "JavaScript": 4.3,
+                "Batchfile": 2.1
+            }
+        }
+    },
+    {
+        "url": "https://github.com/progedu/intro-curriculum-3007",
+        "extra": {
+            "owner": "progedu",
+            "language_stats": {
+                "JavaScript": 100.0
+            }
+        }
+    },
+    {
+        "url": "https://github.com/progedu/intro-curriculum-3002",
+        "extra": {
+            "owner": "progedu",
+            "language_stats": {
+                "JavaScript": 100.0
+            }
+        }
+    }
+]
